@@ -1,5 +1,7 @@
 name: flame_ion
 description: Visual Novel Engine based on flame-engine.
+author: DelicateSephin <delicatesephin@gmail.com>
+homepage: https://github.com/DelicateSephin/flame_ion.git
 
 version: 0.0.1
 
