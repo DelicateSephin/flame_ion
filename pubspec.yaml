@@ -1,9 +1,8 @@
 name: flame_ion
 description: Visual Novel Engine based on flame-engine.
+version: 0.0.1
 author: DelicateSephin <delicatesephin@gmail.com>
 homepage: https://github.com/DelicateSephin/flame_ion.git
-
-version: 0.0.1
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
@@ -13,11 +12,8 @@ dependencies:
     sdk: flutter
   flame: ^0.17.1
 
-  cupertino_icons: ^0.1.2
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
 flutter:
-  uses-material-design: true
